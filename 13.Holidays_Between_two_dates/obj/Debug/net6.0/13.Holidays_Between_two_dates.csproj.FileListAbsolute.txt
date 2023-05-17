@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\bin\Debug\net6.0\13.Holidays_Between_two_dates.exe
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\bin\Debug\net6.0\13.Holidays_Between_two_dates.deps.json
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\bin\Debug\net6.0\13.Holidays_Between_two_dates.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\bin\Debug\net6.0\13.Holidays_Between_two_dates.dll
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\bin\Debug\net6.0\13.Holidays_Between_two_dates.pdb
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\13.Holidays_Between_two_dates.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\13.Holidays_Between_two_dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\13.Holidays_Between_two_dates.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\13.Holidays_Between_two_dates.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\13.Holidays_Between_two_dates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\13.Holidays_Between_two_dates.dll
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\refint\13.Holidays_Between_two_dates.dll
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\13.Holidays_Between_two_dates.pdb
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\13.Holidays_Between_two_dates.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\13.Holidays_Between_two_dates\obj\Debug\net6.0\ref\13.Holidays_Between_two_dates.dll

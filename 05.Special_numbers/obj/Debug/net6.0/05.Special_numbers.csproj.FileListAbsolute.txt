@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\bin\Debug\net6.0\05.Special_numbers.exe
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\bin\Debug\net6.0\05.Special_numbers.deps.json
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\bin\Debug\net6.0\05.Special_numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\bin\Debug\net6.0\05.Special_numbers.dll
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\bin\Debug\net6.0\05.Special_numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\05.Special_numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\05.Special_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\05.Special_numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\05.Special_numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\05.Special_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\05.Special_numbers.dll
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\refint\05.Special_numbers.dll
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\05.Special_numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\05.Special_numbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\05.Special_numbers\obj\Debug\net6.0\ref\05.Special_numbers.dll

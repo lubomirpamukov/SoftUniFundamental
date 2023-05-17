@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\bin\Debug\net6.0\11.Snowballs.exe
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\bin\Debug\net6.0\11.Snowballs.deps.json
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\bin\Debug\net6.0\11.Snowballs.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\bin\Debug\net6.0\11.Snowballs.dll
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\bin\Debug\net6.0\11.Snowballs.pdb
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\11.Snowballs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\11.Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\11.Snowballs.dll
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\refint\11.Snowballs.dll
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\11.Snowballs.pdb
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\11.Snowballs.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\11.Snowballs\obj\Debug\net6.0\ref\11.Snowballs.dll

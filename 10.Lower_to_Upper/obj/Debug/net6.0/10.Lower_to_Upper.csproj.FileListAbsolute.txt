@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\bin\Debug\net6.0\10.Lower_to_Upper.exe
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\bin\Debug\net6.0\10.Lower_to_Upper.deps.json
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\bin\Debug\net6.0\10.Lower_to_Upper.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\bin\Debug\net6.0\10.Lower_to_Upper.dll
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\bin\Debug\net6.0\10.Lower_to_Upper.pdb
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\10.Lower_to_Upper.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\10.Lower_to_Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\10.Lower_to_Upper.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\10.Lower_to_Upper.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\10.Lower_to_Upper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\10.Lower_to_Upper.dll
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\refint\10.Lower_to_Upper.dll
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\10.Lower_to_Upper.pdb
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\10.Lower_to_Upper.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\10.Lower_to_Upper\obj\Debug\net6.0\ref\10.Lower_to_Upper.dll

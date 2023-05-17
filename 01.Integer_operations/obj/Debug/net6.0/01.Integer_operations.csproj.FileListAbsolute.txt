@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\bin\Debug\net6.0\01.Integer_operations.exe
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\bin\Debug\net6.0\01.Integer_operations.deps.json
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\bin\Debug\net6.0\01.Integer_operations.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\bin\Debug\net6.0\01.Integer_operations.dll
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\bin\Debug\net6.0\01.Integer_operations.pdb
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\01.Integer_operations.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\01.Integer_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\01.Integer_operations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\01.Integer_operations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\01.Integer_operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\01.Integer_operations.dll
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\refint\01.Integer_operations.dll
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\01.Integer_operations.pdb
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\01.Integer_operations.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\01.Integer_operations\obj\Debug\net6.0\ref\01.Integer_operations.dll

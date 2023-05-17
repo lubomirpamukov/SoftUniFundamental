@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\bin\Debug\net6.0\09.Sum_of_odd_numbers.exe
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\bin\Debug\net6.0\09.Sum_of_odd_numbers.deps.json
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\bin\Debug\net6.0\09.Sum_of_odd_numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\bin\Debug\net6.0\09.Sum_of_odd_numbers.dll
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\bin\Debug\net6.0\09.Sum_of_odd_numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\09.Sum_of_odd_numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\09.Sum_of_odd_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\09.Sum_of_odd_numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\09.Sum_of_odd_numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\09.Sum_of_odd_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\09.Sum_of_odd_numbers.dll
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\refint\09.Sum_of_odd_numbers.dll
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\09.Sum_of_odd_numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\09.Sum_of_odd_numbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\09.Sum_of_odd_numbers\obj\Debug\net6.0\ref\09.Sum_of_odd_numbers.dll

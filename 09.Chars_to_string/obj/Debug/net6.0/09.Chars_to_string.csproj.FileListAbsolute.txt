@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\bin\Debug\net6.0\09.Chars_to_string.exe
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\bin\Debug\net6.0\09.Chars_to_string.deps.json
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\bin\Debug\net6.0\09.Chars_to_string.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\bin\Debug\net6.0\09.Chars_to_string.dll
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\bin\Debug\net6.0\09.Chars_to_string.pdb
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\09.Chars_to_string.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\09.Chars_to_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\09.Chars_to_string.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\09.Chars_to_string.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\09.Chars_to_string.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\09.Chars_to_string.dll
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\refint\09.Chars_to_string.dll
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\09.Chars_to_string.pdb
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\09.Chars_to_string.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\09.Chars_to_string\obj\Debug\net6.0\ref\09.Chars_to_string.dll

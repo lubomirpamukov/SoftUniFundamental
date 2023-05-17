@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\02.Division\bin\Debug\net6.0\02.Division.exe
+C:\Users\Admin\source\repos\02.Passed\02.Division\bin\Debug\net6.0\02.Division.deps.json
+C:\Users\Admin\source\repos\02.Passed\02.Division\bin\Debug\net6.0\02.Division.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\02.Division\bin\Debug\net6.0\02.Division.dll
+C:\Users\Admin\source\repos\02.Passed\02.Division\bin\Debug\net6.0\02.Division.pdb
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\02.Division.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\02.Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\02.Division.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\02.Division.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\02.Division.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\02.Division.dll
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\refint\02.Division.dll
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\02.Division.pdb
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\02.Division.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\02.Division\obj\Debug\net6.0\ref\02.Division.dll

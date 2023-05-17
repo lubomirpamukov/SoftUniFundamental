@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\01.Ages\bin\Debug\net6.0\01.Ages.exe
+C:\Users\Admin\source\repos\02.Passed\01.Ages\bin\Debug\net6.0\01.Ages.deps.json
+C:\Users\Admin\source\repos\02.Passed\01.Ages\bin\Debug\net6.0\01.Ages.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\01.Ages\bin\Debug\net6.0\01.Ages.dll
+C:\Users\Admin\source\repos\02.Passed\01.Ages\bin\Debug\net6.0\01.Ages.pdb
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\01.Ages.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\01.Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\01.Ages.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\01.Ages.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\01.Ages.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\01.Ages.dll
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\refint\01.Ages.dll
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\01.Ages.pdb
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\01.Ages.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\01.Ages\obj\Debug\net6.0\ref\01.Ages.dll

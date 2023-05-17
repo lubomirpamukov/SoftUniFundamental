@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\bin\Debug\net6.0\04.Print_and_sum.exe
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\bin\Debug\net6.0\04.Print_and_sum.deps.json
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\bin\Debug\net6.0\04.Print_and_sum.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\bin\Debug\net6.0\04.Print_and_sum.dll
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\bin\Debug\net6.0\04.Print_and_sum.pdb
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\04.Print_and_sum.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\04.Print_and_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\04.Print_and_sum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\04.Print_and_sum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\04.Print_and_sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\04.Print_and_sum.dll
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\refint\04.Print_and_sum.dll
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\04.Print_and_sum.pdb
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\04.Print_and_sum.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\04.Print_and_sum\obj\Debug\net6.0\ref\04.Print_and_sum.dll

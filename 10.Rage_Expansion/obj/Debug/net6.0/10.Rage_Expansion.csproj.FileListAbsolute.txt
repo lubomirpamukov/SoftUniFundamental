@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\bin\Debug\net6.0\10.Rage_Expansion.exe
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\bin\Debug\net6.0\10.Rage_Expansion.deps.json
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\bin\Debug\net6.0\10.Rage_Expansion.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\bin\Debug\net6.0\10.Rage_Expansion.dll
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\bin\Debug\net6.0\10.Rage_Expansion.pdb
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\10.Rage_Expansion.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\10.Rage_Expansion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\10.Rage_Expansion.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\10.Rage_Expansion.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\10.Rage_Expansion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\10.Rage_Expansion.dll
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\refint\10.Rage_Expansion.dll
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\10.Rage_Expansion.pdb
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\10.Rage_Expansion.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\10.Rage_Expansion\obj\Debug\net6.0\ref\10.Rage_Expansion.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\08.Town_info.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\08.Town_info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\08.Town_info.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\08.Town_info.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\08.Town_info.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\bin\Debug\net6.0\08.Town_info.exe
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\bin\Debug\net6.0\08.Town_info.deps.json
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\bin\Debug\net6.0\08.Town_info.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\bin\Debug\net6.0\08.Town_info.dll
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\bin\Debug\net6.0\08.Town_info.pdb
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\08.Town_info.dll
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\refint\08.Town_info.dll
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\08.Town_info.pdb
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\08.Town_info.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\08.Town_info\obj\Debug\net6.0\ref\08.Town_info.dll

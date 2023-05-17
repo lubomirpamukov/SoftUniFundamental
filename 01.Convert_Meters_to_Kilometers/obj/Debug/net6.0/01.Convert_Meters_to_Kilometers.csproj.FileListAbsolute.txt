@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\bin\Debug\net6.0\01.Convert_Meters_to_Kilometers.exe
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\bin\Debug\net6.0\01.Convert_Meters_to_Kilometers.deps.json
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\bin\Debug\net6.0\01.Convert_Meters_to_Kilometers.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\bin\Debug\net6.0\01.Convert_Meters_to_Kilometers.dll
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\bin\Debug\net6.0\01.Convert_Meters_to_Kilometers.pdb
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\01.Convert_Meters_to_Kilometers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\01.Convert_Meters_to_Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\01.Convert_Meters_to_Kilometers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\01.Convert_Meters_to_Kilometers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\01.Convert_Meters_to_Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\01.Convert_Meters_to_Kilometers.dll
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\refint\01.Convert_Meters_to_Kilometers.dll
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\01.Convert_Meters_to_Kilometers.pdb
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\01.Convert_Meters_to_Kilometers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\01.Convert_Meters_to_Kilometers\obj\Debug\net6.0\ref\01.Convert_Meters_to_Kilometers.dll
