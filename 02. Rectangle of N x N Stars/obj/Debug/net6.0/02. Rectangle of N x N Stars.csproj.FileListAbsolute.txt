@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\bin\Debug\net6.0\02. Rectangle of N x N Stars.exe
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\bin\Debug\net6.0\02. Rectangle of N x N Stars.deps.json
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\bin\Debug\net6.0\02. Rectangle of N x N Stars.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\bin\Debug\net6.0\02. Rectangle of N x N Stars.dll
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\bin\Debug\net6.0\02. Rectangle of N x N Stars.pdb
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\02. Rectangle of N x N Stars.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\02. Rectangle of N x N Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\02. Rectangle of N x N Stars.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\02. Rectangle of N x N Stars.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\02. Rectangle of N x N Stars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\02. Rectangle of N x N Stars.dll
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\refint\02. Rectangle of N x N Stars.dll
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\02. Rectangle of N x N Stars.pdb
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\02. Rectangle of N x N Stars.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\02. Rectangle of N x N Stars\obj\Debug\net6.0\ref\02. Rectangle of N x N Stars.dll

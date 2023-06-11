@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\bin\Debug\net6.0\02.Print_numbers_in_reverse_order.exe
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\bin\Debug\net6.0\02.Print_numbers_in_reverse_order.deps.json
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\bin\Debug\net6.0\02.Print_numbers_in_reverse_order.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\bin\Debug\net6.0\02.Print_numbers_in_reverse_order.dll
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\bin\Debug\net6.0\02.Print_numbers_in_reverse_order.pdb
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\02.Print_numbers_in_reverse_order.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\02.Print_numbers_in_reverse_order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\02.Print_numbers_in_reverse_order.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\02.Print_numbers_in_reverse_order.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\02.Print_numbers_in_reverse_order.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\02.Print_numbers_in_reverse_order.dll
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\refint\02.Print_numbers_in_reverse_order.dll
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\02.Print_numbers_in_reverse_order.pdb
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\02.Print_numbers_in_reverse_order.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\02.Print_numbers_in_reverse_order\obj\Debug\net6.0\ref\02.Print_numbers_in_reverse_order.dll

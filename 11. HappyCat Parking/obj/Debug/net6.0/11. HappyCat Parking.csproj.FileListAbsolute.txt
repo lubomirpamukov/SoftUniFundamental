@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.exe
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.deps.json
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.dll
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.pdb
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.dll
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\refint\11. HappyCat Parking.dll
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.pdb
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\11. HappyCat Parking\obj\Debug\net6.0\ref\11. HappyCat Parking.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\bin\Debug\net6.0\05.Top_integers.exe
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\bin\Debug\net6.0\05.Top_integers.deps.json
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\bin\Debug\net6.0\05.Top_integers.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\bin\Debug\net6.0\05.Top_integers.dll
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\bin\Debug\net6.0\05.Top_integers.pdb
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\05.Top_integers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\05.Top_integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\05.Top_integers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\05.Top_integers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\05.Top_integers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\05.Top_integers.dll
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\refint\05.Top_integers.dll
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\05.Top_integers.pdb
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\05.Top_integers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\05.Top_integers\obj\Debug\net6.0\ref\05.Top_integers.dll

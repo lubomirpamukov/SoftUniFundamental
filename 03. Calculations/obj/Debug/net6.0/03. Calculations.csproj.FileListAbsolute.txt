@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\bin\Debug\net6.0\03. Calculations.exe
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\bin\Debug\net6.0\03. Calculations.deps.json
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\bin\Debug\net6.0\03. Calculations.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\bin\Debug\net6.0\03. Calculations.dll
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\bin\Debug\net6.0\03. Calculations.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\03. Calculations.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\03. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\03. Calculations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\03. Calculations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\03. Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\03. Calculations.dll
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\refint\03. Calculations.dll
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\03. Calculations.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\03. Calculations.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\03. Calculations\obj\Debug\net6.0\ref\03. Calculations.dll

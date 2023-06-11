@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.exe
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.deps.json
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.dll
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.pdb
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.dll
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\refint\06. Middle Characters.dll
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.pdb
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\06. Middle Characters\obj\Debug\net6.0\ref\06. Middle Characters.dll

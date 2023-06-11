@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\10. Top Number.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\10. Top Number.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\bin\Debug\net6.0\10. Top Number.exe
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\bin\Debug\net6.0\10. Top Number.deps.json
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\bin\Debug\net6.0\10. Top Number.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\bin\Debug\net6.0\10. Top Number.dll
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\bin\Debug\net6.0\10. Top Number.pdb
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\10. Top Number.dll
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\refint\10. Top Number.dll
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\10. Top Number.pdb
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\10. Top Number.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\10. Top Number\obj\Debug\net6.0\ref\10. Top Number.dll

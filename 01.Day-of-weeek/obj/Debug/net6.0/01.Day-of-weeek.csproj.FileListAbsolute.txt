@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\bin\Debug\net6.0\01.Day-of-weeek.exe
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\bin\Debug\net6.0\01.Day-of-weeek.deps.json
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\bin\Debug\net6.0\01.Day-of-weeek.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\bin\Debug\net6.0\01.Day-of-weeek.dll
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\bin\Debug\net6.0\01.Day-of-weeek.pdb
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\01.Day-of-weeek.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\01.Day-of-weeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\01.Day-of-weeek.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\01.Day-of-weeek.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\01.Day-of-weeek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\01.Day-of-weeek.dll
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\refint\01.Day-of-weeek.dll
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\01.Day-of-weeek.pdb
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\01.Day-of-weeek.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\01.Day-of-weeek\obj\Debug\net6.0\ref\01.Day-of-weeek.dll

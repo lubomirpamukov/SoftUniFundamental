@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\bin\Debug\net6.0\09. Kamino Factory.exe
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\bin\Debug\net6.0\09. Kamino Factory.deps.json
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\bin\Debug\net6.0\09. Kamino Factory.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\bin\Debug\net6.0\09. Kamino Factory.dll
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\bin\Debug\net6.0\09. Kamino Factory.pdb
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\09. Kamino Factory.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\09. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\09. Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\09. Kamino Factory.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\09. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\09. Kamino Factory.dll
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\refint\09. Kamino Factory.dll
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\09. Kamino Factory.pdb
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\09. Kamino Factory.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\09. Kamino Factory\obj\Debug\net6.0\ref\09. Kamino Factory.dll

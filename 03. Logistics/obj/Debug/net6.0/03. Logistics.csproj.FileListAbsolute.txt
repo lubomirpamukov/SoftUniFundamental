@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\bin\Debug\net6.0\03. Logistics.exe
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\bin\Debug\net6.0\03. Logistics.deps.json
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\bin\Debug\net6.0\03. Logistics.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\bin\Debug\net6.0\03. Logistics.dll
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\bin\Debug\net6.0\03. Logistics.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\03. Logistics.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\03. Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\03. Logistics.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\03. Logistics.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\03. Logistics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\03. Logistics.dll
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\refint\03. Logistics.dll
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\03. Logistics.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\03. Logistics.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\03. Logistics\obj\Debug\net6.0\ref\03. Logistics.dll

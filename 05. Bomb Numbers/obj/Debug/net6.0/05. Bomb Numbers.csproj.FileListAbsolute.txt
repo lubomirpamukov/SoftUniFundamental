@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.exe
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.deps.json
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.dll
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.dll
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\refint\05. Bomb Numbers.dll
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\05. Bomb Numbers\obj\Debug\net6.0\ref\05. Bomb Numbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\bin\Debug\net6.0\04.Reverse_Array_of_strings.exe
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\bin\Debug\net6.0\04.Reverse_Array_of_strings.deps.json
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\bin\Debug\net6.0\04.Reverse_Array_of_strings.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\bin\Debug\net6.0\04.Reverse_Array_of_strings.dll
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\bin\Debug\net6.0\04.Reverse_Array_of_strings.pdb
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\04.Reverse_Array_of_strings.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\04.Reverse_Array_of_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\04.Reverse_Array_of_strings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\04.Reverse_Array_of_strings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\04.Reverse_Array_of_strings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\04.Reverse_Array_of_strings.dll
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\refint\04.Reverse_Array_of_strings.dll
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\04.Reverse_Array_of_strings.pdb
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\04.Reverse_Array_of_strings.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\04.Reverse_Array_of_strings\obj\Debug\net6.0\ref\04.Reverse_Array_of_strings.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "12. The song of the wheels/1.0.0": {
+        "runtime": {
+          "12. The song of the wheels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12. The song of the wheels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

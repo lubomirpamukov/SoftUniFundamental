@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\07. Football League\bin\Debug\net6.0\07. Football League.exe
+C:\Users\Admin\source\repos\02.Passed\07. Football League\bin\Debug\net6.0\07. Football League.deps.json
+C:\Users\Admin\source\repos\02.Passed\07. Football League\bin\Debug\net6.0\07. Football League.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\07. Football League\bin\Debug\net6.0\07. Football League.dll
+C:\Users\Admin\source\repos\02.Passed\07. Football League\bin\Debug\net6.0\07. Football League.pdb
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\07. Football League.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\07. Football League.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\07. Football League.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\07. Football League.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\07. Football League.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\07. Football League.dll
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\refint\07. Football League.dll
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\07. Football League.pdb
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\07. Football League.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\07. Football League\obj\Debug\net6.0\ref\07. Football League.dll

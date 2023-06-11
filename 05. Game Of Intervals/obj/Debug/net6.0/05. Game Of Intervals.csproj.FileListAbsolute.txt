@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\bin\Debug\net6.0\05. Game Of Intervals.exe
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\bin\Debug\net6.0\05. Game Of Intervals.deps.json
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\bin\Debug\net6.0\05. Game Of Intervals.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\bin\Debug\net6.0\05. Game Of Intervals.dll
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\bin\Debug\net6.0\05. Game Of Intervals.pdb
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\05. Game Of Intervals.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\05. Game Of Intervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\05. Game Of Intervals.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\05. Game Of Intervals.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\05. Game Of Intervals.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\05. Game Of Intervals.dll
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\refint\05. Game Of Intervals.dll
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\05. Game Of Intervals.pdb
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\05. Game Of Intervals.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\05. Game Of Intervals\obj\Debug\net6.0\ref\05. Game Of Intervals.dll

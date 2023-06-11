@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.exe
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.deps.json
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.dll
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\bin\Debug\net6.0\02. Gauss' Trick.pdb
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.dll
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\refint\02. Gauss' Trick.dll
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.pdb
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\02. Gauss' Trick.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\02. Gauss' Trick\obj\Debug\net6.0\ref\02. Gauss' Trick.dll

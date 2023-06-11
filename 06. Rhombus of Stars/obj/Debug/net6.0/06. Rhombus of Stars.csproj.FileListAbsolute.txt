@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.exe
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.deps.json
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.dll
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.pdb
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.dll
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\refint\06. Rhombus of Stars.dll
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.pdb
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\06. Rhombus of Stars\obj\Debug\net6.0\ref\06. Rhombus of Stars.dll

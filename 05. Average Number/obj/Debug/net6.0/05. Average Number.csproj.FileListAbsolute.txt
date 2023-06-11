@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\bin\Debug\net6.0\05. Average Number.exe
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\bin\Debug\net6.0\05. Average Number.deps.json
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\bin\Debug\net6.0\05. Average Number.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\bin\Debug\net6.0\05. Average Number.dll
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\bin\Debug\net6.0\05. Average Number.pdb
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\05. Average Number.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\05. Average Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\05. Average Number.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\05. Average Number.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\05. Average Number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\05. Average Number.dll
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\refint\05. Average Number.dll
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\05. Average Number.pdb
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\05. Average Number.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\05. Average Number\obj\Debug\net6.0\ref\05. Average Number.dll

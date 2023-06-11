@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\bin\Debug\net6.0\05. Square Frame.exe
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\bin\Debug\net6.0\05. Square Frame.deps.json
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\bin\Debug\net6.0\05. Square Frame.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\bin\Debug\net6.0\05. Square Frame.dll
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\bin\Debug\net6.0\05. Square Frame.pdb
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\05. Square Frame.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\05. Square Frame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\05. Square Frame.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\05. Square Frame.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\05. Square Frame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\05. Square Frame.dll
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\refint\05. Square Frame.dll
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\05. Square Frame.pdb
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\05. Square Frame.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\05. Square Frame\obj\Debug\net6.0\ref\05. Square Frame.dll

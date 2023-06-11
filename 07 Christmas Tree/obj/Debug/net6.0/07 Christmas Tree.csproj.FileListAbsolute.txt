@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\07 Christmas Tree.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\07 Christmas Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\07 Christmas Tree.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\07 Christmas Tree.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\07 Christmas Tree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\bin\Debug\net6.0\07 Christmas Tree.exe
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\bin\Debug\net6.0\07 Christmas Tree.deps.json
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\bin\Debug\net6.0\07 Christmas Tree.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\bin\Debug\net6.0\07 Christmas Tree.dll
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\bin\Debug\net6.0\07 Christmas Tree.pdb
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\07 Christmas Tree.dll
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\refint\07 Christmas Tree.dll
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\07 Christmas Tree.pdb
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\07 Christmas Tree.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\07 Christmas Tree\obj\Debug\net6.0\ref\07 Christmas Tree.dll

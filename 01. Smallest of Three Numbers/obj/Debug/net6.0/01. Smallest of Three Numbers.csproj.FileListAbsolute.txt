@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.exe
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.deps.json
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.dll
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.dll
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\refint\01. Smallest of Three Numbers.dll
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\01. Smallest of Three Numbers\obj\Debug\net6.0\ref\01. Smallest of Three Numbers.dll

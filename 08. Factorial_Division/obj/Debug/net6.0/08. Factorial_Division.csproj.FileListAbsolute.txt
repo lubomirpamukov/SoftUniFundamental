@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\bin\Debug\net6.0\08. Factorial_Division.exe
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\bin\Debug\net6.0\08. Factorial_Division.deps.json
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\bin\Debug\net6.0\08. Factorial_Division.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\bin\Debug\net6.0\08. Factorial_Division.dll
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\bin\Debug\net6.0\08. Factorial_Division.pdb
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\08. Factorial_Division.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\08. Factorial_Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\08. Factorial_Division.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\08. Factorial_Division.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\08. Factorial_Division.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\08. Factorial_Division.dll
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\refint\08. Factorial_Division.dll
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\08. Factorial_Division.pdb
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\08. Factorial_Division.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\08. Factorial_Division\obj\Debug\net6.0\ref\08. Factorial_Division.dll

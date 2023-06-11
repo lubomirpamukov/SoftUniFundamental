@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\bin\Debug\net6.0\03.Stream)of_letters.exe
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\bin\Debug\net6.0\03.Stream)of_letters.deps.json
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\bin\Debug\net6.0\03.Stream)of_letters.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\bin\Debug\net6.0\03.Stream)of_letters.dll
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\bin\Debug\net6.0\03.Stream)of_letters.pdb
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\03.Stream)of_letters.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\03.Stream)of_letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\03.Stream)of_letters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\03.Stream)of_letters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\03.Stream)of_letters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\03.Stream)of_letters.dll
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\refint\03.Stream)of_letters.dll
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\03.Stream)of_letters.pdb
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\03.Stream)of_letters.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\03.Stream)of_letters\obj\Debug\net6.0\ref\03.Stream)of_letters.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\06. Bills\bin\Debug\net6.0\06. Bills.exe
+C:\Users\Admin\source\repos\02.Passed\06. Bills\bin\Debug\net6.0\06. Bills.deps.json
+C:\Users\Admin\source\repos\02.Passed\06. Bills\bin\Debug\net6.0\06. Bills.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\06. Bills\bin\Debug\net6.0\06. Bills.dll
+C:\Users\Admin\source\repos\02.Passed\06. Bills\bin\Debug\net6.0\06. Bills.pdb
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\06. Bills.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\06. Bills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\06. Bills.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\06. Bills.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\06. Bills.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\06. Bills.dll
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\refint\06. Bills.dll
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\06. Bills.pdb
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\06. Bills.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\06. Bills\obj\Debug\net6.0\ref\06. Bills.dll

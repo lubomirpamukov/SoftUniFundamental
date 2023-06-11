@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\bin\Debug\net6.0\08.Condense_array_to_numbers.exe
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\bin\Debug\net6.0\08.Condense_array_to_numbers.deps.json
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\bin\Debug\net6.0\08.Condense_array_to_numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\bin\Debug\net6.0\08.Condense_array_to_numbers.dll
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\bin\Debug\net6.0\08.Condense_array_to_numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\08.Condense_array_to_numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\08.Condense_array_to_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\08.Condense_array_to_numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\08.Condense_array_to_numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\08.Condense_array_to_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\08.Condense_array_to_numbers.dll
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\refint\08.Condense_array_to_numbers.dll
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\08.Condense_array_to_numbers.pdb
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\08.Condense_array_to_numbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\08.Condense_array_to_numbers\obj\Debug\net6.0\ref\08.Condense_array_to_numbers.dll
