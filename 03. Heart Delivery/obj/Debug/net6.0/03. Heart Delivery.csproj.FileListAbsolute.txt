@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\bin\Debug\net6.0\03. Heart Delivery.exe
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\bin\Debug\net6.0\03. Heart Delivery.deps.json
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\bin\Debug\net6.0\03. Heart Delivery.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\bin\Debug\net6.0\03. Heart Delivery.dll
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\bin\Debug\net6.0\03. Heart Delivery.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\03. Heart Delivery.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\03. Heart Delivery.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\03. Heart Delivery.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\03. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\03. Heart Delivery.dll
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\refint\03. Heart Delivery.dll
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\03. Heart Delivery.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\03. Heart Delivery.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\03. Heart Delivery\obj\Debug\net6.0\ref\03. Heart Delivery.dll

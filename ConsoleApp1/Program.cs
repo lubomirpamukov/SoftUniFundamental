@@ -5,32 +5,76 @@
     {
         static void Main(string[] args)
         {
-           char first = char.Parse(Console.ReadLine()); 
-           char last = char.Parse(Console.ReadLine()); 
-           char skip = char.Parse(Console.ReadLine());
-            int counter = 0;
+            string city = Console.ReadLine();
+            string package = Console.ReadLine();
+            string discountInput = Console.ReadLine();
+            int days = int.Parse(Console.ReadLine());
 
-            for (char i = first; i <= last; i++)
+            double totalDayPrice = default;
+            double discount = default;
+
+            if (days < 1)
             {
-                if (i == skip)
-                    continue;
-                for (char j = first; j <= last; j++)
-                {
-                    if (j == skip)
-                        continue;
-
-                    for (char k = first; k <= last; k++)
-                    {
-                        if (k == skip)
-                            continue;
-
-                        Console.Write($"{i}{j}{k} ");
-                        counter++;
-                    }
-                }
+                Console.WriteLine($"Days must be positive number!");
+                return;
             }
 
-            Console.Write(counter);
+
+            if (city == "Bansko" || city == "Borovets")
+            {
+                switch (package)
+                {
+                    case "withEquipment":
+                        totalDayPrice = 100;
+                        discount = 0.9;
+                        break;
+                    case "noEquipment":
+                        totalDayPrice = 80;
+                        discount = 0.95;
+
+                        break;
+                    default:
+                        break;
+                }
+            }
+            else if (city == "Varna" || city == "Burgas")
+            {
+                switch (package)
+                {
+                    case "withBreakfast":
+                        totalDayPrice = 130;
+                        discount = 0.88;
+
+                        break;
+                    case "noBreakfast":
+                        totalDayPrice = 100;
+                        discount = 0.93;
+
+                        break;
+                    default:
+                        break;
+                }
+            }
+            else 
+            {
+                Console.WriteLine("Invalid input!");
+                return;
+            }
+
+            double totalPrice = totalDayPrice * days; 
+
+            if (discountInput == "yes")
+            {
+                totalDayPrice *= discount;
+                totalPrice *= discount;
+            }
+
+            if (days > 7)
+            {
+                totalPrice -= totalDayPrice;
+            }
+
+            Console.WriteLine($"The price is {totalPrice:f2}lv! Have a nice time!");
         }
     }
 }

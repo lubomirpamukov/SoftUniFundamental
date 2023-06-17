@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\bin\Debug\net6.0\03. Moving Target.exe
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\bin\Debug\net6.0\03. Moving Target.deps.json
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\bin\Debug\net6.0\03. Moving Target.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\bin\Debug\net6.0\03. Moving Target.dll
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\bin\Debug\net6.0\03. Moving Target.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\03. Moving Target.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\03. Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\03. Moving Target.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\03. Moving Target.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\03. Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\03. Moving Target.dll
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\refint\03. Moving Target.dll
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\03. Moving Target.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\03. Moving Target.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\03. Moving Target\obj\Debug\net6.0\ref\03. Moving Target.dll

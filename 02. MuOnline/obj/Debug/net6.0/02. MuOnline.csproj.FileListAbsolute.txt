@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\bin\Debug\net6.0\02. MuOnline.exe
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\bin\Debug\net6.0\02. MuOnline.deps.json
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\bin\Debug\net6.0\02. MuOnline.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\bin\Debug\net6.0\02. MuOnline.dll
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\bin\Debug\net6.0\02. MuOnline.pdb
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\02. MuOnline.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\02. MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\02. MuOnline.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\02. MuOnline.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\02. MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\02. MuOnline.dll
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\refint\02. MuOnline.dll
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\02. MuOnline.pdb
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\02. MuOnline.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\02. MuOnline\obj\Debug\net6.0\ref\02. MuOnline.dll

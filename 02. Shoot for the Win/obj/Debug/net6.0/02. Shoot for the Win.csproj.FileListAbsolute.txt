@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.exe
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.deps.json
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.dll
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\bin\Debug\net6.0\02. Shoot for the Win.pdb
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.dll
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\refint\02. Shoot for the Win.dll
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.pdb
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\02. Shoot for the Win.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\02. Shoot for the Win\obj\Debug\net6.0\ref\02. Shoot for the Win.dll
