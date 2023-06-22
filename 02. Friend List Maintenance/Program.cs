@@ -7,7 +7,7 @@
     {
         static void Main(string[] args)
         {
-            string[] friendList = Console.ReadLine()
+            string[] friendList = Console.ReadLine() 
                 .Split(", ").ToArray();
 
             string input;
