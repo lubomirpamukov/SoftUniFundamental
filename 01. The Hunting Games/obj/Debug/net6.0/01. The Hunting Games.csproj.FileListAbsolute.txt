@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\bin\Debug\net6.0\01. The Hunting Games.exe
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\bin\Debug\net6.0\01. The Hunting Games.deps.json
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\bin\Debug\net6.0\01. The Hunting Games.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\bin\Debug\net6.0\01. The Hunting Games.dll
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\bin\Debug\net6.0\01. The Hunting Games.pdb
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\01. The Hunting Games.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\01. The Hunting Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\01. The Hunting Games.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\01. The Hunting Games.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\01. The Hunting Games.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\01. The Hunting Games.dll
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\refint\01. The Hunting Games.dll
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\01. The Hunting Games.pdb
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\01. The Hunting Games.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\01. The Hunting Games\obj\Debug\net6.0\ref\01. The Hunting Games.dll
