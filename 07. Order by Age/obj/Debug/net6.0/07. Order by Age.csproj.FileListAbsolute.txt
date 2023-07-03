@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\bin\Debug\net6.0\07. Order by Age.exe
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\bin\Debug\net6.0\07. Order by Age.deps.json
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\bin\Debug\net6.0\07. Order by Age.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\bin\Debug\net6.0\07. Order by Age.dll
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\bin\Debug\net6.0\07. Order by Age.pdb
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\07. Order by Age.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\07. Order by Age.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\07. Order by Age.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\07. Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\07. Order by Age.dll
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\refint\07. Order by Age.dll
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\07. Order by Age.pdb
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\07. Order by Age.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\07. Order by Age\obj\Debug\net6.0\ref\07. Order by Age.dll

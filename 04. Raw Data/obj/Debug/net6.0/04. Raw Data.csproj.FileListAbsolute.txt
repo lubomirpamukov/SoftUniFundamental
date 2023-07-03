@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\bin\Debug\net6.0\04. Raw Data.exe
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\bin\Debug\net6.0\04. Raw Data.deps.json
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\bin\Debug\net6.0\04. Raw Data.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\bin\Debug\net6.0\04. Raw Data.dll
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\bin\Debug\net6.0\04. Raw Data.pdb
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\04. Raw Data.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\04. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\04. Raw Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\04. Raw Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\04. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\04. Raw Data.dll
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\refint\04. Raw Data.dll
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\04. Raw Data.pdb
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\04. Raw Data.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\04. Raw Data\obj\Debug\net6.0\ref\04. Raw Data.dll

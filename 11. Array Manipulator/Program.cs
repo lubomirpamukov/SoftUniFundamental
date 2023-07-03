@@ -36,12 +36,25 @@
 
                         if (currentOperation[1] == "even")
                         {
-                            Console.WriteLine(MaxEvenorOdd(arrayInput, currentOperation[1]));
+                            if (MaxEvenorOdd(arrayInput, currentOperation[1]) == int.MinValue)
+                            {
+                                Console.WriteLine("No matches");
+                            }
+                            else
+                            {
+                                Console.WriteLine(MaxEvenorOdd(arrayInput, currentOperation[1]));
+                            }
                         }
                         else if (currentOperation[1] == "odd") 
                         {
-                            Console.WriteLine(MaxEvenorOdd(arrayInput, currentOperation[1]));
-
+                            if (MaxEvenorOdd(arrayInput, currentOperation[1]) == int.MinValue)
+                            {
+                                Console.WriteLine("No matches");
+                            }
+                            else
+                            {
+                                Console.WriteLine(MaxEvenorOdd(arrayInput, currentOperation[1]));
+                            }
                         }
                         break;
 
@@ -50,11 +63,25 @@
 
                         if (currentOperation[1] == "even")
                         {
-                            Console.WriteLine(MaxEvenorOdd(arrayInput, currentOperation[1]));
+                            if (MinEvenorOdd(arrayInput, currentOperation[1]) == int.MaxValue)
+                            {
+                                Console.WriteLine("No matches");
+                            }
+                            else 
+                            {
+                                 Console.WriteLine(MinEvenorOdd(arrayInput, currentOperation[1]));
+                            }
                         }
                         else if (currentOperation[1] == "odd")
                         {
-                            Console.WriteLine(MaxEvenorOdd(arrayInput, currentOperation[1]));
+                            if (MinEvenorOdd(arrayInput, currentOperation[1]) == int.MaxValue)
+                            {
+                                Console.WriteLine("No matches");
+                            }
+                            else 
+                            {
+                                 Console.WriteLine(MinEvenorOdd(arrayInput, currentOperation[1]));
+                            }
 
                         }
                         break;
@@ -72,26 +99,49 @@
                         {
 
 
-                            if (currentOperation[2] == "even")
+                            if (currentOperation[2] == "even" || currentOperation[2] == "odd")
                             {
-                                FirstEvenOdds(arrayInput, numbersCount, currentOperation[2]);
+                               int[] filteredArray = FirstEvenOdds(arrayInput, numbersCount, currentOperation[2]);
+                                
+                                Console.Write("[");
+                                Console.Write(string.Join(", ", filteredArray));
+                                Console.Write("]\n");
                             }
-                            else if (currentOperation[2] == "odd")
-                            {
-                                FirstEvenOdds(arrayInput, numbersCount, currentOperation[2]);
+                          
+                        }
+                        break;
 
+                    case "last":
+                        int numbers = int.Parse(currentOperation[1]);
+
+                        if (numbers >= arrayInput.Length)
+                        {
+                            Console.WriteLine("Invalid count");
+                            continue;
+                        }
+                        else
+                        {
+
+
+                            if (currentOperation[2] == "even" || currentOperation[2] == "odd")
+                            {
+                                int[] filteredArray = LastEvenOdds(arrayInput, numbers, currentOperation[2]);
+
+                                Console.Write("[");
+                                Console.Write(string.Join(", ", filteredArray));
+                                Console.Write("]\n");
                             }
+
                         }
                         break;
 
                     default:
                         break;
                 }
-               
-
-
-            
             }
+            Console.Write("[");
+            Console.Write(string.Join(", ", arrayInput));
+            Console.Write("]\n");
         }
 
         static int[] ExchangeMethod(int[] input, int index) 
@@ -115,6 +165,7 @@
         static int MaxEvenorOdd(int[] arrayInput, string evenOdd) 
         {
             int biggestNumber = int.MinValue;
+            int index = int.MinValue;
             switch (evenOdd)
             {
                 case "even":
@@ -123,6 +174,7 @@
                         if (arrayInput[i] % 2 == 0 && arrayInput[i] >= biggestNumber)
                         {
                             biggestNumber = arrayInput[i];
+                            index = i;
                         }
                     }
                     break;
@@ -132,6 +184,8 @@
                         if (arrayInput[i] % 2 != 0 && arrayInput[i] >= biggestNumber)
                         {
                             biggestNumber = arrayInput[i];
+                            index = i;
+
                         }
                     }
                     break;
@@ -139,12 +193,14 @@
                     break;
             }
 
-            return biggestNumber;
+            return index;
         }
 
         static int MinEvenorOdd(int[] arrayInput, string evenOdd)
         {
-            int smallestNumber = int.MinValue;
+            int smallestNumber = int.MaxValue;
+            int index = int.MaxValue;
+
             switch (evenOdd)
             {
                 case "even":
@@ -153,6 +209,7 @@
                         if (arrayInput[i] % 2 == 0 && arrayInput[i] >= smallestNumber)
                         {
                             smallestNumber = arrayInput[i];
+                            index = i;
                         }
                     }
                     break;
@@ -162,6 +219,7 @@
                         if (arrayInput[i] % 2 != 0 && arrayInput[i] >= smallestNumber)
                         {
                             smallestNumber = arrayInput[i];
+                            index= i;
                         }
                     }
                     break;
@@ -197,6 +255,48 @@
             else if (evenOdd == "odd") 
             {
                 for (int i = 0; i < arrayInput.Length; i++)
+                {
+                    if (counter == numberCount)
+                    {
+                        break;
+                    }
+                    if (arrayInput[i] % 2 != 0)
+                    {
+                        counter++;
+
+                        array[i] = arrayInput[i];
+                    }
+                }
+            }
+
+            return array;
+        }
+
+        static int[] LastEvenOdds(int[] arrayInput, int numberCount, string evenOdd)
+        {
+            int counter = default;
+            int[] array = new int[counter];
+
+            if (evenOdd == "even")
+            {
+
+                for (int i = arrayInput.Length - 1; 0 <= i; i--)
+                {
+                    if (counter == numberCount)
+                    {
+                        break;
+                    }
+                    if (arrayInput[i] % 2 == 0)
+                    {
+                        counter++;
+
+                        array[i] = arrayInput[i];
+                    }
+                }
+            }
+            else if (evenOdd == "odd")
+            {
+                for (int i = arrayInput.Length-1; 0 <= i; i--)
                 {
                     if (counter == numberCount)
                     {

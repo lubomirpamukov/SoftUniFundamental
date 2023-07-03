@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\bin\Debug\net6.0\01. Company Roster.exe
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\bin\Debug\net6.0\01. Company Roster.deps.json
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\bin\Debug\net6.0\01. Company Roster.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\bin\Debug\net6.0\01. Company Roster.dll
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\bin\Debug\net6.0\01. Company Roster.pdb
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\01. Company Roster.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\01. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\01. Company Roster.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\01. Company Roster.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\01. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\01. Company Roster.dll
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\refint\01. Company Roster.dll
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\01. Company Roster.pdb
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\01. Company Roster.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\01. Company Roster\obj\Debug\net6.0\ref\01. Company Roster.dll
