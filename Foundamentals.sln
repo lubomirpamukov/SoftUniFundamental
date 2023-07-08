@@ -369,13 +369,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. A Miner Task", "02. A M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Orders", "03. Orders\03. Orders.csproj", "{AE369FC0-FBF8-4EDB-B0F4-3EEFF0CE80A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SoftUni Parking", "04. SoftUni Parking\04. SoftUni Parking.csproj", "{A93AFDC8-4B8B-41CA-A8AE-A76E15367731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. SoftUni Parking", "04. SoftUni Parking\04. SoftUni Parking.csproj", "{A93AFDC8-4B8B-41CA-A8AE-A76E15367731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Courses", "05. Courses\05. Courses.csproj", "{EC9CC340-9112-4623-99F9-DC719C75CB5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Courses", "05. Courses\05. Courses.csproj", "{EC9CC340-9112-4623-99F9-DC719C75CB5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Student Academy", "06. Student Academy\06. Student Academy.csproj", "{C4356030-E822-41F6-B602-E18F1E9472C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Student Academy", "06. Student Academy\06. Student Academy.csproj", "{C4356030-E822-41F6-B602-E18F1E9472C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Company Users", "07. Company Users\07. Company Users.csproj", "{9AB10805-A1FC-4E15-93C3-2CC53A002733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Company Users", "07. Company Users\07. Company Users.csproj", "{9AB10805-A1FC-4E15-93C3-2CC53A002733}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Ranking", "01. Ranking\01. Ranking.csproj", "{7053F198-7DC3-4FB1-B8FB-D6028509DBFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Judge", "02. Judge\02. Judge.csproj", "{FABCA3DF-3E57-4FDA-B0DA-546A4E4045E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MOBA Challenger", "03. MOBA Challenger\03. MOBA Challenger.csproj", "{315AA43A-E813-4825-9172-78CFDB728C94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1131,6 +1137,18 @@ Global
 		{9AB10805-A1FC-4E15-93C3-2CC53A002733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AB10805-A1FC-4E15-93C3-2CC53A002733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AB10805-A1FC-4E15-93C3-2CC53A002733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7053F198-7DC3-4FB1-B8FB-D6028509DBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7053F198-7DC3-4FB1-B8FB-D6028509DBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7053F198-7DC3-4FB1-B8FB-D6028509DBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7053F198-7DC3-4FB1-B8FB-D6028509DBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABCA3DF-3E57-4FDA-B0DA-546A4E4045E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABCA3DF-3E57-4FDA-B0DA-546A4E4045E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABCA3DF-3E57-4FDA-B0DA-546A4E4045E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABCA3DF-3E57-4FDA-B0DA-546A4E4045E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315AA43A-E813-4825-9172-78CFDB728C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315AA43A-E813-4825-9172-78CFDB728C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315AA43A-E813-4825-9172-78CFDB728C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315AA43A-E813-4825-9172-78CFDB728C94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\bin\Debug\net6.0\03. MOBA Challenger.exe
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\bin\Debug\net6.0\03. MOBA Challenger.deps.json
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\bin\Debug\net6.0\03. MOBA Challenger.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\bin\Debug\net6.0\03. MOBA Challenger.dll
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\bin\Debug\net6.0\03. MOBA Challenger.pdb
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\03. MOBA Challenger.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\03. MOBA Challenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\03. MOBA Challenger.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\03. MOBA Challenger.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\03. MOBA Challenger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\03. MOBA Challenger.dll
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\refint\03. MOBA Challenger.dll
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\03. MOBA Challenger.pdb
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\03. MOBA Challenger.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\03. MOBA Challenger\obj\Debug\net6.0\ref\03. MOBA Challenger.dll
