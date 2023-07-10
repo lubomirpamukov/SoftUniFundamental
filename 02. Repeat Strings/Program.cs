@@ -7,32 +7,30 @@
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine()
-                .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            string[] input = Console.ReadLine() // read input from the console
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries); // splits it by white space
 
-            StringBuilder str =
+            StringBuilder str = //creating string builder for improved preformance 
                 new StringBuilder();
 
-            for (int i = 0; i < input.Length; i++)
+            for (int i = 0; i < input.Length; i++) // loop that iterates through every word 
             {
-                string currWord = input[i];
-                str.Append(StringManipulation(currWord));
+                string currWord = input[i]; //taking curr word
+                str.Append(AppendingStringMethod(currWord)); // appends a method that appends a word
             }
-            Console.WriteLine(str.ToString());
+            Console.WriteLine(str.ToString()); // print the final result
         }
 
-        static string StringManipulation(string input) 
+        static string AppendingStringMethod(string input) // custom method that appends
         {
-            StringBuilder str =
+            StringBuilder str = // string builder for better preformance
                 new StringBuilder();
 
-            int stringLength = input.Length;
-
-            for (int i = 0; i < input.Length; i++)
+            for (int i = 0; i < input.Length; i++) // making for loop that iterates through every char in the string
             {
-                str.Append(input);
+                str.Append(input); // appends the char to the stringbuilder
             }
-            return str.ToString();
+            return str.ToString(); // returns stringbuilder
         }
     }
 }

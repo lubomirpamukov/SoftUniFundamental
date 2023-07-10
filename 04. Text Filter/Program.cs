@@ -7,17 +7,17 @@
     {
         static void Main(string[] args)
         {
-            string[] bannedWords = Console.ReadLine()
-                .Split(", ", StringSplitOptions.TrimEntries);
+            string[] bannedWords = Console.ReadLine() // taking a string of banned words
+                .Split(", ", StringSplitOptions.TrimEntries); // split them into array to extract data
 
-            string text = Console.ReadLine();
+            string text = Console.ReadLine(); // string for console input
 
-            for (int i = 0; i < bannedWords.Length; i++)
+            for (int i = 0; i < bannedWords.Length; i++) // loop that iterates for evey word in the banned list
             {
-                text = text.Replace(bannedWords[i], new string('*' , bannedWords[i].Length));
+                text = text.Replace(bannedWords[i], new string('*' , bannedWords[i].Length)); // checks if the text contains that word and replace it with asteriks
             }
 
-            Console.WriteLine(text);
+            Console.WriteLine(text);// prints the output
         }
     }
 }
