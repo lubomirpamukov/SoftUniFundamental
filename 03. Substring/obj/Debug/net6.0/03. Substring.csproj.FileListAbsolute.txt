@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\03. Substring\bin\Debug\net6.0\03. Substring.exe
+C:\Users\Admin\source\repos\02.Passed\03. Substring\bin\Debug\net6.0\03. Substring.deps.json
+C:\Users\Admin\source\repos\02.Passed\03. Substring\bin\Debug\net6.0\03. Substring.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\03. Substring\bin\Debug\net6.0\03. Substring.dll
+C:\Users\Admin\source\repos\02.Passed\03. Substring\bin\Debug\net6.0\03. Substring.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\03. Substring.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\03. Substring.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\03. Substring.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\03. Substring.dll
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\refint\03. Substring.dll
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\03. Substring.pdb
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\03. Substring.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\03. Substring\obj\Debug\net6.0\ref\03. Substring.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.exe
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.deps.json
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.runtimeconfig.json
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.dll
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.pdb
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.AssemblyInfo.cs
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.dll
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\refint\02. Character Multiplier.dll
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.pdb
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.genruntimeconfig.cache
+C:\Users\Admin\source\repos\02.Passed\02. Character Multiplier\obj\Debug\net6.0\ref\02. Character Multiplier.dll
